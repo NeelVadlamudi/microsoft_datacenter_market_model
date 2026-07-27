@@ -1,0 +1,9 @@
+market,state,grid_region,market_type,demand_score,feasibility_score,risk_score,base_case,power_first,inference_first,source_confidence,notes
+Northern Virginia,VA,PJM,primary_cloud_hub,88.5,71.7,43.1,74.7,73.8,76.4,high,CBRE reports Northern Virginia led primary markets with 1102.0 MW net absorption in 2025; power and community constraints remain material.
+Atlanta,GA,Southeast,primary_growth_market,76.9,76.5,35.5,73.6,74.2,73.7,medium,CBRE identifies Atlanta as a primary market and 2024 leader; power cost is moderate and growth fit is strong.
+Hillsboro / Portland,OR,Northwest,primary_power_fiber,64.9,80.1,22.5,73.4,75.0,71.9,medium,CBRE covers Hillsboro and notes a northern fiber route through Oregon and Washington toward Minneapolis.
+West Texas / Pecos,TX,ERCOT,emerging_ai_capacity,86.8,85.0,73.0,71.2,73.9,71.4,high,Microsoft announced about 2 GW of new Pecos capacity and dedicated on-site energy supply; CBRE notes West Texas fiber expansion.
+Chicago,IL,PJM_MISO,primary_network_hub,73.0,72.1,35.9,70.5,70.8,70.6,medium,CBRE covers Chicago as a primary market and notes medium-haul fiber routes linked to Columbus and Minneapolis.
+Dallas-Fort Worth,TX,ERCOT,primary_hyperscale,90.5,75.9,73.6,69.4,70.4,70.8,high,CBRE reports Dallas absorbed 470.8 MW in 2025 and rose sharply year over year; ERCOT load growth creates both demand and risk.
+Silicon Valley,CA,CAISO,primary_constrained_ai,78.2,43.4,39.0,61.7,57.4,65.2,high,CBRE notes Silicon Valley pricing pressure and AI-optimized demand; EIA shows California power price as a major cost headwind.
+Phoenix,AZ,Southwest,primary_ai_edge,69.6,59.1,48.4,61.4,60.7,62.5,medium,CBRE covers Phoenix as a primary market; Microsoft notes hotter climates can increase cooling-water exposure.
