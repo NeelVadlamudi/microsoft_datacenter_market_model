@@ -96,6 +96,6 @@ The model uses a mix of hard facts and judgment scores. Judgment scores are labe
 - EIA AEO2026 data center server electricity use: https://www.eia.gov/todayinenergy/detail.php?id=67704
 - EIA 2024 State Electricity Profiles: https://www.eia.gov/electricity/state/
 
-## Recruiter Translation
+## In Simple Words...
 
 This project demonstrates market intelligence, cloud and AI infrastructure awareness, quantitative modeling, scenario analysis, executive communication, and responsible assumptions. Those are the exact behaviors the Microsoft posting asks for, without overstating my background.
